@@ -9,17 +9,17 @@
 		
 		<footer class="footer">	
 			<?php // get_footer('lg'); ?>
-      		<section class="small-footer">
+      		<!-- <section class="small-footer">
       			<div class="container">
       				<div class="row">
 	      				<div class="">
 			        		<div class="text-center footer-menu">
-			        			<?php dynamic_sidebar('footer-credits'); ?>
+			        			<?php // dynamic_sidebar('footer-credits'); ?>
 			        		</div>
 		        		</div>
-			        </div> <!-- .row -->				        
-	        	</div> <!-- .container -->
-	        </section>	
+			        </div>				        
+	        	</div> 
+	        </section>	-->
       		<section class="credit-footer background-dark">
       			<div class="container">		        
 					<div class="row">
@@ -55,8 +55,9 @@
 		
 		<!--wordpress footer-->
 		<?php wp_footer(); ?> 
+
 		<!-- Typekit -->
-		<script type="text/javascript" src="//use.typekit.net/nkg3euk.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!--		<script type="text/javascript" src="//use.typekit.net/nkg3euk.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script> -->
 	</body>
 </html>

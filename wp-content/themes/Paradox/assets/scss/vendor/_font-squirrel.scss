@@ -1,0 +1,25 @@
+// League Gothic
+
+@font-face {
+    font-family: 'league_gothicregular';
+    src: url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.eot');
+    src: url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.woff2') format('woff2'),
+         url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.woff') format('woff'),
+         url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.ttf') format('truetype'),
+         url('assets/fonts/LeagueGothic/leaguegothicregular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'league_gothicitalic';
+    src: url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.eot');
+    src: url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.woff2') format('woff2'),
+         url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.woff') format('woff'),
+         url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.ttf') format('truetype'),
+         url('assets/fonts/LeagueGothic/leaguegothicitalic-webfont.svg#league_gothicitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
