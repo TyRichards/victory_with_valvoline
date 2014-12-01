@@ -34,10 +34,11 @@ Template Name: Home
             <div class="col-md-5">
                 <h2>140 Years Under The Hood</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
+                    The engine has evolved exponentially since 1866, when Valvoline first introduced its motor oil. And ever since the Model-T began mass production in the 1920s, only one motor oil has consistently been recommended by name – Valvoline. 
+                    Today the company continues to reinvent their products to keep engines running smoothly. Their line now includes NextGen—introduced in 2011 and made with 50% recycled oil—along with conventional, synthetics and synthetic blends because not every engine on the road today needs the same fuel, the same oil, the same fluids.
                 </p>
                 <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
+                    <b>Valvoline – reliable then, trusted today, evolving for tomorrow.</b>
                 </p>
                 <a href="#victory" class="btn btn-lg btn-secondary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>
@@ -54,7 +55,10 @@ Template Name: Home
             <div class="col-md-5">
                 <h2>A Rich History of Capturing the Checkered Flag</h2>
                 <p>
-                    The best in motor oil now brings you the best in Diesel Exhaust Fluid. Arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
+                    Valvoline: The biggest brand in motor oil now brings you the best in Diesel Exhaust Fluid with Valvoline Premium Blue DEF. It’s no surprise the name synonymous with winning on the track would team with a proven, high performance company such as Victory Blue to distribute its DEF product. For better fuel efficiency, increased power, less engine wear and reduced maintenance, trust Valvoline Premium Blue DEF, now brought to you by Victory Blue.
+                </p>
+                <p>
+                    <b>On the track or on the road, Valvoline wins.</b>
                 </p>
                 <a href="#def" class="btn btn-lg btn-secondary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>            
@@ -71,7 +75,10 @@ Template Name: Home
             <div class="col-md-5">
                 <h2>The Backbone of America</h2>
                 <p>
-                    Diesel drives our nation... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. Donec vel enim at augue elementum convallis sed vel odio. 
+                    Diesel drives our nation, connecting products to manufacturers and consumers every day over millions of miles. That’s why drivers learn to trust brands such as Valvoline and Victory Blue for Diesel Exhaust Fluid to keep them running smoothly while complying with the strict emission standards set by the EPA — eliminating 90% of exhaust pollutants. As always, Valvoline's Premium Blue DEF product meets or exceeds all International Organization for Standardization requirements.
+                </p>
+                <p>
+                    Drive cleaner. Drive with Victory.
                 </p>
                 <a href="#future" class="btn btn-lg btn-secondary"><i class="fa fa-arrow-circle-down fa-left"></i>See More</a> 
             </div>
@@ -91,10 +98,10 @@ Template Name: Home
             <div class="col-md-5">
                 <h2>The Future of Valvoline</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu felis, viverra ut mauris sit amet, hendrerit auctor nunc. Aenean enim nisi, egestas vel enim et, sollicitudin ornare ipsum. 
+                    America's biggest name in motor oil is also the most trusted name in Diesel Exhaust Fluid. Valvoline Premium Blue DEF is now brought to you by Victory Blue. As the exclusive manufacturer, packager and distributor of Valvoline’s brand of DEF, Victory Blue partners with Valvoline to supply its product across the nation through established channels. Both wholesale and retail customers can now enjoy reliable access to a trusted, premium product at competitive prices, keeping their Selective Catalytic Reduction systems running clean.
                 </p>
                 <p>
-                    Donec vel enim at augue elementum convallis sed vel odio. Donec sodales metus urna, et aliquam libero feugiat et. Pellentesque tristique eget lacus congue suscipit. Aenean venenatis semper massa vel iaculis. Nunc risus mi, viverra sed orci nec.
+                    <b>Valvoline and Victory Blue – a partnership you can depend on.</b>
                 </p>
                 <a href="http://www.govictoryblue.com/order-online2/distributor-pricing/" class="btn btn-lg btn-secondary">Get Valvoline Premium Blue DEF</a> 
                 <p>
