@@ -10013,8 +10013,8 @@ Link: https://gist.github.com/jgarber/2302238
 
 /* line 26, ../scss/partials/_layouts.scss */
 .masthead {
-  padding-top: 130px;
-  padding-bottom: 200px;
+  padding-top: 75px;
+  padding-bottom: 100px;
 }
 
 /* line 43, ../scss/partials/_layouts.scss */
@@ -10876,7 +10876,7 @@ body .gform_wrapper .gform_footer {
 /* line 712, ../scss/partials/_modules.scss */
 .bg-light {
   background-color: #f3f3f3;
-  color: #86878B;
+  color: #6F7074;
 }
 
 /* line 713, ../scss/partials/_modules.scss */
@@ -10891,6 +10891,21 @@ body .gform_wrapper .gform_footer {
 /* line 717, ../scss/partials/_modules.scss */
 #future {
   background: #f3f3f3 url("../Paradox/assets/images/road.jpg") top center no-repeat fixed;
+}
+
+/* line 720, ../scss/partials/_modules.scss */
+#victory {
+  background: #f3f3f3 url("../Paradox/assets/images/bg-race.jpg") top center no-repeat fixed;
+}
+
+/* line 723, ../scss/partials/_modules.scss */
+#history {
+  background: white url("../Paradox/assets/images/bg-history.jpg") top center no-repeat fixed;
+}
+
+/* line 726, ../scss/partials/_modules.scss */
+#def {
+  background: white url("../Paradox/assets/images/bg-def.jpg") top center no-repeat fixed;
 }
 
 @media (min-width: 768px) {
@@ -10921,12 +10936,17 @@ body .gform_wrapper .gform_footer {
   }
 
   /* line 40, ../scss/partials/_states.scss */
+  .masthead h1 {
+    padding-top: 100px;
+  }
+
+  /* line 44, ../scss/partials/_states.scss */
   .logos .container .cred-logo {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  /* line 45, ../scss/partials/_states.scss */
+  /* line 49, ../scss/partials/_states.scss */
   .sidebar #widget_sp_image-3 img {
     width: 75%;
     -moz-border-radius: 200px;
@@ -10936,107 +10956,107 @@ body .gform_wrapper .gform_footer {
   }
 }
 @media (max-width: 767px) {
-  /* line 58, ../scss/partials/_states.scss */
+  /* line 62, ../scss/partials/_states.scss */
   .clipboard-icon {
     padding-left: 109px;
     padding-top: 13px;
   }
 
-  /* line 63, ../scss/partials/_states.scss */
+  /* line 67, ../scss/partials/_states.scss */
   .footer-logo {
     padding-bottom: 25px;
     display: block;
   }
 
-  /* line 68, ../scss/partials/_states.scss */
+  /* line 72, ../scss/partials/_states.scss */
   .logos .container div {
     padding: 10px 75px;
   }
 
-  /* line 72, ../scss/partials/_states.scss */
+  /* line 76, ../scss/partials/_states.scss */
   .masthead, .primary-content, .more-foot, .small-footer, .main-col {
     padding-top: 25px;
     padding-bottom: 25px;
   }
 
-  /* line 79, ../scss/partials/_states.scss */
+  /* line 83, ../scss/partials/_states.scss */
   .body-content h1 {
     font-size: 37.8px;
   }
-  /* line 82, ../scss/partials/_states.scss */
+  /* line 86, ../scss/partials/_states.scss */
   .body-content h2 {
     font-size: 47.6px;
   }
-  /* line 85, ../scss/partials/_states.scss */
+  /* line 89, ../scss/partials/_states.scss */
   .body-content h3 {
     font-size: 23.8px;
   }
-  /* line 88, ../scss/partials/_states.scss */
+  /* line 92, ../scss/partials/_states.scss */
   .body-content h4 {
     font-size: 18.2px;
   }
-  /* line 91, ../scss/partials/_states.scss */
+  /* line 95, ../scss/partials/_states.scss */
   .body-content h5 {
     font-size: 13.6px;
   }
-  /* line 98, ../scss/partials/_states.scss */
+  /* line 102, ../scss/partials/_states.scss */
   .body-content p, .body-content ul, .body-content ol {
     margin: 25px 0 0 0;
   }
 
-  /* line 104, ../scss/partials/_states.scss */
+  /* line 108, ../scss/partials/_states.scss */
   .primary-content .btn, .primary-content .gform_button, .primary-content .archive .page-title, .archive .primary-content .page-title, .primary-content .more-link, .masthead .btn, .masthead .gform_button, .masthead .archive .page-title, .archive .masthead .page-title, .masthead .more-link, .logos .btn, .logos .gform_button, .logos .archive .page-title, .archive .logos .page-title, .logos .more-link, .footer .btn, .footer .gform_button, .footer .archive .page-title, .archive .footer .page-title, .footer .more-link {
     margin: 25px 0 0 0;
   }
 
-  /* line 109, ../scss/partials/_states.scss */
+  /* line 113, ../scss/partials/_states.scss */
   .col-no-padding-xs {
     padding-left: 0px;
     padding-right: 0px;
   }
 
-  /* line 114, ../scss/partials/_states.scss */
+  /* line 118, ../scss/partials/_states.scss */
   .navbar-header .navbar-brand {
     width: 100%;
   }
 
-  /* line 118, ../scss/partials/_states.scss */
+  /* line 122, ../scss/partials/_states.scss */
   .no-float-xs {
     float: none !important;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  /* line 129, ../scss/partials/_states.scss */
+  /* line 133, ../scss/partials/_states.scss */
   .col-no-padding-sm {
     padding-left: 0px;
     padding-right: 0px;
   }
 
-  /* line 134, ../scss/partials/_states.scss */
+  /* line 138, ../scss/partials/_states.scss */
   .no-float-sm {
     float: none !important;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-  /* line 142, ../scss/partials/_states.scss */
+  /* line 146, ../scss/partials/_states.scss */
   .col-no-padding-md {
     padding-left: 0px;
     padding-right: 0px;
   }
 
-  /* line 147, ../scss/partials/_states.scss */
+  /* line 151, ../scss/partials/_states.scss */
   .no-float-md {
     float: none !important;
   }
 }
 @media (min-width: 1200px) {
-  /* line 155, ../scss/partials/_states.scss */
+  /* line 159, ../scss/partials/_states.scss */
   .col-no-padding-lg {
     padding-left: 0px;
     padding-right: 0px;
   }
 
-  /* line 160, ../scss/partials/_states.scss */
+  /* line 164, ../scss/partials/_states.scss */
   .no-float-lg {
     float: none !important;
   }

@@ -709,11 +709,20 @@ background: #000000;
     padding-bottom: 140px;
     position: relative;
 }
-.bg-light { background-color: #f3f3f3; color: #86878B; }
+.bg-light { background-color: #f3f3f3; color: #6F7074; }
 .bg-dark { 
     background-color: $brand-primary; 
     h1, h2, h3, h4, h5, h6 { color: #ffffff; }
 }
 #future {
     background: #f3f3f3 url('../Paradox/assets/images/road.jpg') top center no-repeat fixed;
+}
+#victory {
+    background: #f3f3f3 url('../Paradox/assets/images/bg-race.jpg') top center no-repeat fixed;
+}
+#history {
+    background: #ffffff url('../Paradox/assets/images/bg-history.jpg') top center no-repeat fixed;
+}
+#def {
+    background: #ffffff url('../Paradox/assets/images/bg-def.jpg') top center no-repeat fixed;
 }

@@ -65,8 +65,8 @@ $(function() {
 			<section class="top-navbar">				
 				<nav class="navbar navbar-default" role="navigation">
 					<div class="container-fluid">						
-						<div class="navbar-header">																	
-							<button type="button" class="navbar-toggle navbar-right" data-toggle="collapse" data-target=".navbar-primary-collapse">
+						<div class="navbar-header">	
+							<button style="display:none;" type="button" class="navbar-toggle navbar-right" data-toggle="collapse" data-target=".navbar-primary-collapse">
 								<span class="sr-only"><?php _e('Toggle navigation', 'bootstrap-basic'); ?></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
