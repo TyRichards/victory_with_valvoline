@@ -37,7 +37,7 @@ Template Name: Home
                     The engine has evolved exponentially since 1866, when Valvoline first introduced its motor oil. And ever since the Model-T began mass production in the 1920s, only one motor oil has consistently been recommended by name – Valvoline. Today the company continues to reinvent their products to keep engines running smoothly. Their line now includes NextGen—introduced in 2011 and made with 50% recycled oil—along with conventional, synthetics and synthetic blends because not every engine on the road today needs the same fuel, the same oil, the same fluids.
                 </p>
                 <p>
-                    But their innovation doesn't stop at just oil products. Valvoline has taken their product line to the next level by introducing Premium Blue Diesel Exhaust Fluid in an effort to run the cleanest engines in history.
+                    But their innovation doesn’t stop at just lubricants. Valvoline has taken their product line to the next level by introducing Premium Blue Diesel Exhaust Fluid in an effort to run the cleanest engines in history.
                 </p>
                 <p>
                     <b>Valvoline – reliable then, trusted today, evolving for tomorrow.</b>
