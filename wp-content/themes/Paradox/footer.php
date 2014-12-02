@@ -34,10 +34,11 @@
 			        	</div>	        	
 			        	<div class="col-md-4 text-center">
 			        		<ul class="list-inline">
-			        			<li><a href="#" title="Google Plus"><i class="fa fa-google-plus fa-2x"></i></a></li>
-			        			<li><a href="#" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
-			        			<li><a href="#" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
-			        			<li><a href="#" title="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></li>
+			        			<li><a href="https://plus.google.com/+GovictoryblueDEF" target="_blank" title="Google Plus"><i class="fa fa-google-plus fa-2x"></i></a></li>
+			        			<li><a href="https://twitter.com/victoryblue_def" target="_blank" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></li>
+			        			<li><a href="https://www.facebook.com/pages/Victory-Blue-DEF/231252883587702" target="_blank" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a></li>
+			        			<li><a href="https://www.linkedin.com/company/1130377" target="_blank" title="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></li>
+			        			<li><a href="https://www.youtube.com/VictoryBlueDEF" target="_blank" title="YouTube"><i class="fa fa-youtube fa-2x"></i></a></li>
 			        		</ul>
 			        	</div>
 		        		<div class="col-md-4">

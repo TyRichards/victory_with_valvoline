@@ -10868,8 +10868,8 @@ body .gform_wrapper .gform_footer {
 /* line 706, ../scss/partials/_modules.scss */
 .block {
   background-color: #1a2734;
-  padding-top: 140px;
-  padding-bottom: 140px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   position: relative;
 }
 
