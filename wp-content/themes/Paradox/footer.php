@@ -27,8 +27,11 @@
 			        		<div class="pull-left footer-credits">		        			
 			        			<small>
 			        				<a href="<?php echo esc_url(home_url('/')); ?>">
-			        					© <?php echo date("Y"); ?> <?php echo esc_attr(get_bloginfo('name', 'display')); ?>
+			        					© <?php echo date("Y"); ?> Victory Blue
 			        				</a>
+			        				&nbsp;&nbsp;&nbsp; © 2014, Ashland			        				
+			        				<br />
+									<p style="font-size:10px;">™Trademark, Ashland or its subsidiaries, registered in various countries. <p>
 			        			</small>		        			
 			        		</div>			
 			        	</div>	        	
