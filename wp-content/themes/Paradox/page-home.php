@@ -108,8 +108,8 @@ Template Name: Home
                 <p>
                     <b><a href="http://valvoline.com" target="_blank">Valvoline</a> and Victory Blue – a partnership you can depend on.</b>
                 </p>
-                <a href="http://www.govictoryblue.com/order-online2/distributor-pricing/" class="btn btn-secondary">Get Valvoline Premium Blue DEF</a> 
-                 <a href="http://www.govictoryblue.com/order-online2/distributor-pricing/" class="btn btn-secondary">Become a Distributor</a> 
+                <a href="http://www.govictoryblue.com/distributors/" class="btn btn-secondary">Get Valvoline Premium Blue DEF</a> 
+                 <a href="http://www.govictoryblue.com/consumers/" class="btn btn-secondary">Become a Distributor</a> 
                 <br />
                 <br />
                 <a href="http://valvoline.com" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/valvoline-logo.png" alt="Valvoline Official Website"></a>
