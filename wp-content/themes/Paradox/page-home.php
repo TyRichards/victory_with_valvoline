@@ -13,7 +13,7 @@ Template Name: Home
             <div class="col-md-4 text-center">
                 <a href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>">
                     <?php // echo esc_attr(get_bloginfo('name', 'display')); ?>
-                    <img style="max-width:379px; margin-top: -33px;" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-lg.png">
+                    <img class="main-logo" style="max-width:100%; margin-top: -33px;" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-lg.png">
                 </a>    
             </div>
             <div class="col-md-7 col-md-offset-1 text-center">
@@ -98,7 +98,7 @@ Template Name: Home
     <div class="container-fluid">
         <div class="row">            
             <div class="col-md-5 text-right">
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/premium-blue.png" alt="<?php bloginfo('description'); ?>">
+                <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/images/premium-blue.png" alt="<?php bloginfo('description'); ?>">
             </div>
             <div class="col-md-5">
                 <h2>Valvoline Premium Blue DEF</h2>
