@@ -29,7 +29,7 @@
 			        				<a href="<?php echo esc_url(home_url('/')); ?>">
 			        					© <?php echo date("Y"); ?> Victory Blue
 			        				</a>
-			        				&nbsp;&nbsp;&nbsp; © 2014, Ashland			        				
+			        				&nbsp;&nbsp;&nbsp; © <?php echo date("Y"); ?> Ashland			        				
 			        				<br />
 									<p style="font-size:10px;">™Trademark, Ashland or its subsidiaries, registered in various countries. <p>
 			        			</small>		        			
